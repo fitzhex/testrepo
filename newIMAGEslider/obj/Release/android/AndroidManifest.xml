@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Sample.Sample">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+  <application android:label="Sample" android:theme="@style/AppTheme" android:name="mono.android.app.Application">
+    <activity android:icon="@drawable/icon" android:label="Sample" android:name="md5e44603b235f21ebfbb6b3d0f2dc433d5.MainActivity" />
+    <activity android:label="s" android:name="md5e44603b235f21ebfbb6b3d0f2dc433d5.Popup" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Sample.Sample.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:icon="@drawable/icon" android:label="Sample" android:name="sample.sample.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>

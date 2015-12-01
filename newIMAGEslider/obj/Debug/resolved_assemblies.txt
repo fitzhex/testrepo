@@ -1,0 +1,14 @@
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Sample.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/System.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/System.Xml.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Mono.Android.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Mono.Android.Export.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Refractored.PagerSlidingTabStrip.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Xamarin.Android.Support.v7.CardView.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Square.OkIO.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Square.OkHttp.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/Square.Picasso.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/System.Core.dll
+/Users/hafiz/Downloads/newIMAGEslider/obj/Debug/assemblies/mscorlib.dll

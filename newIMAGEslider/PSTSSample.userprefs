@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Sample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.test" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../GIT/PI1M_Dashboard.T1.Droid/MyShopActivities/SuperAwesomeCardFragment.cs" Line="62" Column="1" />
+      <File FileName="../GIT/PI1M_Dashboard.T1.Droid/MyShopActivities/Product_Details.cs" Line="31" Column="23" />
+      <File FileName="../GIT/PI1M_Dashboard.T1.Droid/MyShopActivities/Popup.cs" Line="17" Column="25" />
+      <File FileName="../GIT/PI1M_Dashboard.T1.Droid/MyVoteActivities/MyVoteMAPOAdapter.cs" Line="126" Column="89" />
+      <File FileName="../GIT/PI1M_Dashboard.T1.Droid/MyVoteActivities/MyVote_ViewHolder.cs" Line="21" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
